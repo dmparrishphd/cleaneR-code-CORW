@@ -1,2 +1,8 @@
-# cleaneR-code-CORW
-Some tips for writing legible code, with emphasis on R
+cleaneR Code
+============
+
+Introduction
+------------
+
+This repository and any sister repositories present some tips
+for writing legible code, with emphasis on R.
