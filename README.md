@@ -1,8 +1,6 @@
 cleaneR Code
 ============
 
-Introduction
-------------
+_Some tips for writing legible code, with emphasis on R._
 
-This repository and any sister repositories present some tips
-for writing legible code, with emphasis on R.
+[README, TOO](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/README.TOO.md)
