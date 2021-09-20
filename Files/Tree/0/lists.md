@@ -1,5 +1,5 @@
-Lists
-=====
+Long Live List Legibility
+=========================
 
 This article is about lists
 (\[[1](https://www.lexico.com/en/definition/list)],
