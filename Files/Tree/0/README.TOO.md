@@ -13,3 +13,5 @@ Indices
 [Tip of the Day](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/indexRandom.md)
 
 [Topical Index](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/indexTopics.md)
+
+[In Preparation](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/inPreparation.md)
