@@ -91,3 +91,7 @@ Style Guide for Python Code, PEP 8.
 
 Butterick M (2021) "line length" in Typography for Lawyers, 2 ed.
 [https://typographyforlawyers.com/line-length.html](https://typographyforlawyers.com/line-length.html)
+
+[https://www.humanfactors.com/newsletters/optimal_line_length.asp](https://www.humanfactors.com/newsletters/optimal_line_length.asp)
+
+[https://www.usability.gov/get-involved/blog/2006/08/line-length-and-onscreen-reading.html](https://www.usability.gov/get-involved/blog/2006/08/line-length-and-onscreen-reading.html)
