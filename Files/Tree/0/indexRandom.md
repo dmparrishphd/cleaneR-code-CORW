@@ -2,7 +2,10 @@ Tip of the Day
 ==============
 
 **September**:
-[20](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/lists.md)
+[20](./lists.md)
 
 **October**:
-[19](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/lineLength.md)
+[19](./lineLength.md)
+
+**November**
+[11](./tests.md)
