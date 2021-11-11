@@ -26,9 +26,9 @@ be `FALSE`.
 The above definition of `classify` goes agains two of Leo
 Brodie's \[THIN4\] tips (Nos. 8.4 and 8.15):
 
-> Don't test for something that has already been excluded (Brodie, Tip 8.4)
+> Don't test for something that has already been excluded
 
-> Don't test for something that can't possibly happen" (Brodie, Tip 8.15)
+> Don't test for something that can't possibly happen
 
 Applying the principle, a better definition of `classify` would be:
 
