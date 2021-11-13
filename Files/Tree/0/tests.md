@@ -10,10 +10,10 @@ Suppose we have the following definition and assignment:
                 is.numeric ( thresholds ) ,
                 ! is.unsorted ( thresholds ) )
             if ( value < thresholds [ 1 ] ) {
-                return ( 1 )
+                1
             } else if ( thresholds [ 1 ] <= value && value < thresholds [ 2 ] ) {
-                return ( 2 )
-            } else return ( 3 ) }
+                2
+            } else 3 }
 
 What's wrong with the definition?
 
@@ -39,10 +39,10 @@ Applying the principle, a better definition of `classify` would be:
                 is.numeric ( thresholds ) ,
                 ! is.unsorted ( thresholds ) )
             if ( value < thresholds [ 1 ] ) {
-                return ( 1 )
+                1
             } else if ( value < thresholds [ 2 ] ) {
-                return ( 2 )
-            } else return ( 3 ) }
+                2
+            } else 3 }
             
 We might opt for the terser:
 
@@ -52,9 +52,9 @@ We might opt for the terser:
                 length ( value ) == 1 ,
                 is.numeric ( thresholds ) ,
                 ! is.unsorted ( thresholds ) )
-            if ( value < thresholds [ 1 ] ) return ( 1 ) else
-            if ( value < thresholds [ 2 ] ) return ( 2 ) else
-            return ( 3 ) }
+            if ( value < thresholds [ 1 ] ) 1 else
+            if ( value < thresholds [ 2 ] ) 2 else
+            3 }
 
 The visual alignment of the `if` phrases makes it easier to
 see their differences.
