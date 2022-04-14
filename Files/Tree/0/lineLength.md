@@ -63,6 +63,19 @@ character, which can create a false double-space effect.
 Use the characters between the soft and hard limits sparingly,
 mainly for punctuation (e.g., a closing bracket).
 
+Line Length in Markdown Flavors
+-------------------------------
+
+### Jupyter Notebooks
+
+Try wrapping an entire Markdown cell in
+
+    <div style="max-width:33em"> <!-- first line of Jupyter Notebooks Markdown cell -->
+    </div> <!-- last line of Jupyter Notebooks Markdown cell -->
+    
+Acknowledgment:
+[The Ultimate Markdown Guide (for Jupyter Notebook)](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
+
 Further Reading
 ---------------
 
