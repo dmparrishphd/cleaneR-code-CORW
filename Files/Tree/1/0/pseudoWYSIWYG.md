@@ -1,15 +1,19 @@
 <div style="max-width:33em">
 
 <!--    ----    ----    ----    ----    ----    ----    ---- -->
+
+_Dear Reader: Both the rendered document and the underlying
+Markdown script should be reviewed in order to get the entire
+message here._
+  
 _This Markdown script provides a few examples of how one might
 attempt to produce Markdown code that has a layout reflecting
 the structure of the rendered document:_ sorta _WYSIWYG._
   
-  
 _The "div" trick for constraining line width seems not to work
 with the GitHub flavor of Markdown. It does work with Jupyter
 Notebooks flavor._
-    
+
 gems---Directory Metadata
 =========================
 
