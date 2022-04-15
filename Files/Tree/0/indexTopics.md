@@ -1,9 +1,15 @@
 Topical Index
 =============
 
+M
+-
+
+[Markdown](../1/0/pseudoWYSIWYG.md)
+
 L
 -
 
-[line length](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/lineLength.md)
+[line length](./lineLength.md),
+[in Markdown](../1/0/pseudoWYSIWYG.md)
 
-[lists](https://github.com/dmparrishphd/cleaneR-code-CORW/blob/main/Files/Tree/0/lists.md)
+[lists](./lists.md)
