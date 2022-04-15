@@ -1,7 +1,7 @@
 Tip of the Day
 ==============
 
-**April**"
+**April**
 [15](../1/0/pseudoWYSIWYG.md)
 
 **September**:
