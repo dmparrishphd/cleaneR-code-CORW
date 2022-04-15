@@ -13,12 +13,13 @@ the structure of the rendered document:_ sorta _WYSIWYG._
 _The "div" trick for constraining line width seems not to work
 with the GitHub flavor of Markdown. It does work with Jupyter
 Notebooks flavor._
-
-gems---Directory Metadata
+<div style="max-width:33em">
+    
+REDACTED---Directory Metadata
 =========================
 
 <span         />_Metadata for Directory_
-                `/beohome/a/ScientificProgramSupport/notebooks/python/gems`
+                `REDACTED`
 
 <!--
                 The above "span" element allows the Markdown
@@ -42,7 +43,7 @@ Storage Discipline
 Credits
 -------
 
-<span         />Created by mparrish x1184 mparrish@sjrwmd.gov.
+<span         />Created by REDACTED xREDACTED REDACTED@REDACTED.REDACTED.
 
 Intended Use
 ------------
@@ -60,8 +61,8 @@ Intended Use
 <!--    ----    ----    ----    ----    ----    ----    ---- -->    
 
 - <span       />If you want others to be able to depend on your
-&zwj;           gems, make---and keep---a promise never to alter
-&zwj;           those gems. Diamonds are forever. Immutability
+&zwj;           REDACTED, make---and keep---a promise never to alter
+&zwj;           those REDACTED. Diamonds are forever. Immutability
 &zwj;           changes everything [<a href ="#ICE">ICE</a>].
 
 <!--    ----    ----    ----    ----    ----    ----    ---- -->    
